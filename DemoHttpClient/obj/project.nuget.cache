@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZTee4zFofPBs46fkIGI9gFeQQDCnN9HLioKN6M8b3GrcKtrHmS6l+j1TPk3BFyl+pyqllNeNxQx7ru0WheI0Ow==",
+  "success": true,
+  "projectFilePath": "E:\\.NET\\API\\DemoHttpClient\\DemoHttpClient\\DemoHttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JACK\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
